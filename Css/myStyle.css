@@ -17,13 +17,27 @@ li{
     color: brown;
 }
 
+td{
+
+    color: brown;
+}
+
 
 .img{
     display: block;
     margin: auto;
+
+    
   width: 300px;
   height: 300px;
 
+
+
+}
+
+
+.oo1{
+    background-color: red;
 
 
 }
