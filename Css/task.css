@@ -1,0 +1,55 @@
+
+
+
+p{
+background-color: rosybrown;
+text-align: center;
+
+
+}
+
+img{
+
+height: 100px;
+width: 100px;
+
+
+
+}
+body{
+
+    background-color: wheat;
+}
+
+.content{
+  
+  display:flex;
+ 
+  
+
+
+    
+
+
+}
+
+
+
+.let{
+
+    float: left;
+    
+    margin: 0px;
+    margin-left: 30px;
+    margin-top: 200px;
+    
+}
+
+.const{
+
+
+    margin-left: 200px;
+
+
+}
+
